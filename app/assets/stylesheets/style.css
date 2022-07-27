@@ -197,6 +197,13 @@ a {
   justify-content: center;
   padding-top: 16px;
 }
+.prototype_user {
+  color: gray;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  text-decoration-color: gray;
+}
 .prototype__btn{
   display: block;
   padding: 0.4em 1.6em;
